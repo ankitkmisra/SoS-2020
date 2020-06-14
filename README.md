@@ -8,4 +8,4 @@ The two main resources I used for this project are:
 1. Andrew Ng's 'Machine Learning' course by Stanford University, on Coursera
 2. Andrew Ng's 'Deep Learning Specialization', a series of 5 courses by deeplearning.ai, on Coursera
 
-I have also included in this repository the certificates I earned from Coursera for completing the above course and specialization. I also wanted to upload my solutions for the course exercises (made using MATLAB, NumPy, and TensorFlow), but I decided against it as I believe would have been a violation of the Coursera Honor Code.
+I have also included in this repository the certificates I earned from Coursera for completing the above course and specialization. I also wanted to upload my solutions for the course exercises (made using MATLAB, NumPy, and TensorFlow), but I decided against it as I believe it would have been a violation of the Coursera Honor Code.

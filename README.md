@@ -1,4 +1,4 @@
-# SoS-2020
+# Summer of Science (SoS) 2020
 
 This repository contains work I did as part of my Summer of Science (SoS) 2020 project. This was mainly a learning project, and my aim was to learn about various machine learning algorithms and techniques, with emphasis on neural networks and deep learning.
 
